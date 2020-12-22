@@ -112,5 +112,6 @@ int main (){
     printf ("Linked List                        : "); printLinkedList();
     find (2);
     find (4);
+    find (3);
     return 0;
 }
