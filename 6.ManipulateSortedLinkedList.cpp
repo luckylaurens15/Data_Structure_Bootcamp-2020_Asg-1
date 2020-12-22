@@ -191,6 +191,7 @@ int main (){
     pushTail (5);
     pushTail (6);
     pushTail (8);
+    pushTail (9);
     printf ("Sorted Ascending Linked List  : "); printLinkedList();
     manipulate ();
     printf ("Sorted Descending Linked List : "); printLinkedList2();
